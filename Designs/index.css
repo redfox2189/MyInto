@@ -1,0 +1,37 @@
+html{
+    background-color: #571650;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    display: block;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+img{
+    border:#4d0346 5px solid;
+    position: right;
+    display:block;
+    margin-left:auto;
+}
+
+footer{
+    color: white;
+    height: 5vh;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    background-color: #4d0346;
+    text-align: center;
+}
+
+.box{
+    border-radius : 8px;
+    padding : 1%;
+    display : flex;
+    font-size : 1.5rem;
+    color:#ffffff
+}
